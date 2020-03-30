@@ -1,6 +1,6 @@
 <template>
   <div class="bottom-banner">
-    <a target="_blank" href="http://www.beian.miit.gov.cn">@2020 MINICHOC 浙ICP备12034599号-5</a>
+    <a target="_blank" href="http://www.beian.miit.gov.cn">©2020 MINICHOC 浙ICP备12034599号-5</a>
   </div>
 </template>
 
